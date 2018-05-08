@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Sample project from quick start guide</description>
+   <name>Sample Project</name>
+   <tag></tag>
+   <UUID>3e9aeadf-fc38-472f-b2c2-bc4aee233475</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
